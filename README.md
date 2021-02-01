@@ -1,6 +1,6 @@
-# Apresentação
+# Presentation
 
-> Esta modificação foi desenvolvida para trabalhar junto com o módulo <strong>Frete grátis (Free) </strong> que vem padrão no Opencart, e tem a função de exibir a mensagem <strong>Frete grátis a partir de R$ 500,00(Exemplo)</strong> , esse valor é configurado no módulo <strong>Frete grátis (Free)</strong>, caso o valor dos produtos sejam maior do que o definido módulo <strong>Frete grátis (Free) </strong>, vai exibir a mensagem <strong>Sucesso! Você tem frete grátis</strong> na página do produto.
+> This modification was developed to work together with the <strong> Free shipping (Free) </strong> module that comes standard in Opencart, and has the function of displaying the message <strong> Free shipping from R $ 500.00 (Example) </strong>, this value is configured in the <strong> Free shipping </strong> module, if the value of the products is higher than the defined <strong> Free shipping (Free) module </ strong >, will display the message <strong> Success! You have free shipping </strong> on the product page. 
 
 
 
